@@ -1,0 +1,11 @@
+{
+  "name": "@sanderdsz/packages",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
