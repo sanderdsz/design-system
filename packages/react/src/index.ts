@@ -1,3 +1,3 @@
-import { colors } from "@sanderdsz/tokens";
+import { colors } from '@sanderdsz/tokens'
 
-console.log(colors);
+console.log(colors)
