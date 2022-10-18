@@ -7,6 +7,11 @@ export default {
   component: Button,
   args: {
     children: 'Button'
+  },
+  argTypes: {
+    onClick: {
+      action: 'click'
+    }
   }
 } as Meta<ButtonProps>
 
