@@ -20,6 +20,9 @@ jobs:
       - run: npm ci
 
       - run: npm run build
+        env:
+          TURBO_TOKEN: 4JKmbABiSQ5tQaKDhsdeQRhK
+          TURBO_TEAM: shiver-design
 
       - name: Deploy storybook
         working-directory: ./packages/docs
