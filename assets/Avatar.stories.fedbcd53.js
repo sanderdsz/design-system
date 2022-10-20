@@ -1,0 +1,2 @@
+import{A as a}from"./index.9c8fad28.js";import"./index.d226dfd7.js";import"./iframe.1003298c.js";import"./index.e4cda539.js";import"./jsx-runtime.8bf788ef.js";const c={title:"Data Display/Avatar",component:a,args:{src:"https://github.com/sanderdsz.png",alt:"Sander Zuchinalli"}},m={args:{}},n={args:{src:void 0}},p=["Primary","WithFallback"];export{m as Primary,n as WithFallback,p as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.fedbcd53.js.map
