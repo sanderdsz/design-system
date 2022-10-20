@@ -31,6 +31,6 @@ jobs:
           publish: npm run release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: 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
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           TURBO_TOKEN: 4JKmbABiSQ5tQaKDhsdeQRhK
           TURBO_TEAM: shiver-design
